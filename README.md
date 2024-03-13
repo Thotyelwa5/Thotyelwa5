@@ -4,7 +4,7 @@ Hi there :wave:, I am Thotyelwa Mpongwana
 
 :seedling: I'm currently learning networking basics and getting ready for AWS certification.
 
-:mortar_board: Experienced in HTML, CSS, JavaScript, Vue.js, Node.js, and MySQL.
+:mortar_board: Experienced in HTML, CSS, JavaScript, Vue.js,Python, Node.js, and MySQL.
 
 :mag: Actively seeking entry-level opportunities to grow as a developer.
 
