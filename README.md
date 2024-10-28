@@ -8,7 +8,7 @@ Hi there :wave:, I am Thotyelwa Mpongwana
 
 :mag: Actively seeking entry-level opportunities to grow as a developer.
 
-:globe_with_meridians: Check out my porfolio: https://mpongwanathotyelwa.wixsite.com/my-site-2
+:globe_with_meridians: Check out my porfolio: https://thotyelwa.vercel.app/
 
 :e-mail: You can reach me via email at mpongwanathotyelwa@gmailgmail.com.
 
